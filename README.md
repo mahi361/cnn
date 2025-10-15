@@ -1,7 +1,2 @@
 #CNN
-
-I have trained the model using cnn
-so there are approx 14cr parameters(weights).which are trained.
-if we copy the path of the image and paste it then if we run the comand of predict then it will predict weather it has scratch or not
-scratch_-  0
-no scratch - 1
+Developed and trained a high-parameter Convolutional Neural Network (CNN) with approximately 14 million weights for automated visual defect classification. Implemented an inference pipeline that accepts image paths as input and returns binary predictions (0: No Scratch, 1: Scratch) with real-time classification capabilities.
