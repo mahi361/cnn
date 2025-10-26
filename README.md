@@ -5,6 +5,6 @@ Output
 </h3>
 
 <p align="center">
-  <img src="https://github.com/mahi361/Cartesian_hybrid_robot/blob/main/git/cartesian_sld.jpg" width="60%" />
+  <img src="https://github.com/mahi361/cnn/blob/main/Untitled0.ipynb" />
 </p>
 
